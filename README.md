@@ -4,26 +4,25 @@ I'm a passionate, self-taught aspiring software developer on a mission to make a
 
 ## 🚀 Technologies I Employ, and Continuously Develop
 - **Languages:**
-  - [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-  - [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  - [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+  
+  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" width="50" height="50"/></a>
 
 - **Web:**
-  - [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  - [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="50" height="50"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="50" height="50"/></a>
 
 - **Tools & Frameworks:**
-  - [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
-  - [![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)](https://robotframework.org/)
-  - [![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
-  - [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-  - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-  - [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-  - [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
-  - [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 
-- **Concepts:**
-  - [![Scrum](https://img.shields.io/badge/Scrum%20Basics-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)](https://www.scrum.org/)
+  <a href="https://azure.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="50" height="50"/></a>
+  <a href="https://unity.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="50" height="50"/></a>
+  <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="50" height="50"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50"/></a>
+  <a href="https://www.microsoft.com/windows"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="50" height="50"/></a>
+  <a href="https://ubuntu.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="50" height="50"/></a>
+<!--  <a href="https://robotframework.org/"><img src="" width="50" height="50"/></a> -->
 
 ## 🎯 Goals
 - **Career:** Land a job in IT by the end of this year
@@ -32,17 +31,17 @@ I'm a passionate, self-taught aspiring software developer on a mission to make a
 ## 🏞️ Beyond Code
 When I'm not immersed in code, you can find me hiking through nature's trails or spending quality time with my two wonderful cats. I believe in balancing work and play, and I'm on a journey of self-healing and personal growth.
 
-## 👨‍🍳 Previous Work Experience
+<!--## 👨‍🍳 Previous Work Experience
 Before jumping into software engineering, I spent 11 years working in the international restaurant industry. As a kitchen manager, I developed strong communication skills and learned the importance of effective delegation and teamwork. While I prefer to tackle challenges independently, I have also grown to appreciate the value of collaboration and seeking assistance when needed.
 
 ## 🌍 Language Skills
 - **Estonian:** Native proficiency
 - **English:** Fluent (Second language)
-- **Finnish:** Beginner (Currently learning)
+- **Finnish:** Beginner (Currently learning)-->
 
 ## 🌈 About Me
 I'm a proud member of the LGBTQ+ community who values inclusivity and community. I aim to contribute not just with code, but by fostering a supportive and welcoming environment wherever I go.
 
 ## Let's connect and create something amazing together! 🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/liisa-rebane)
+<a href="https://linkedin.com/in/liisa-rebane"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="50"/></a>
