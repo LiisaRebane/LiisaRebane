@@ -2,7 +2,7 @@
 
 I'm a passionate, self-taught aspiring software developer on a mission to make a mark in the tech world. Since discovering my love for software development late last year, I've been diving deep into coding, exploring the realms of software, web programming, and game development.
 
-## 🚀 Technologies I Employ, and Continuously Develop
+## 🚀 Technologies
 - **Languages:**
   
   <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/></a>
@@ -24,12 +24,12 @@ I'm a passionate, self-taught aspiring software developer on a mission to make a
   <a href="https://ubuntu.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="50" height="50"/></a>
 <!--  <a href="https://robotframework.org/"><img src="" width="50" height="50"/></a> -->
 
-## 🎯 Goals
+<!-- ## 🎯 Goals
 - **Career:** Land a job in IT by the end of this year
 - **Personal:** Continuously learn and grow, while focusing on mental and physical well-being
 
 ## 🏞️ Beyond Code
-When I'm not immersed in code, you can find me hiking through nature's trails or spending quality time with my two wonderful cats. I believe in balancing work and play, and I'm on a journey of self-healing and personal growth.
+When I'm not immersed in code, you can find me hiking through nature's trails or spending quality time with my two wonderful cats. I believe in balancing work and play, and I'm on a journey of self-healing and personal growth.-->
 
 <!--## 👨‍🍳 Previous Work Experience
 Before jumping into software engineering, I spent 11 years working in the international restaurant industry. As a kitchen manager, I developed strong communication skills and learned the importance of effective delegation and teamwork. While I prefer to tackle challenges independently, I have also grown to appreciate the value of collaboration and seeking assistance when needed.
@@ -39,8 +39,8 @@ Before jumping into software engineering, I spent 11 years working in the intern
 - **English:** Fluent (Second language)
 - **Finnish:** Beginner (Currently learning)-->
 
-## 🌈 About Me
-I'm a proud member of the LGBTQ+ community who values inclusivity and community. I aim to contribute not just with code, but by fostering a supportive and welcoming environment wherever I go.
+<!--## 🌈 About Me
+I'm a proud member of the LGBTQ+ community who values inclusivity and community. I aim to contribute not just with code, but by fostering a supportive and welcoming environment wherever I go.-->
 
 ## Let's connect and create something amazing together! 🚀
 
